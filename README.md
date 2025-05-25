@@ -1,1 +1,4 @@
-# Fit-Check
+Fit-Check is a fully responsive frontend e-commerce website developed using HTML, Tailwind CSS, and JavaScript. It provides a clean, modern UI for an online fashion store and is optimized for all screen sizes using Tailwind's utility-first responsive design system.
+The application includes functional product listings, category filters, a cart system (frontend only), and dynamic user interface interactions powered by JavaScript. It demonstrates modular, reusable components and scalable layout structures built with Tailwind CSS.
+JavaScript handles DOM manipulation, UI state updates (like cart toggling), and basic validation to simulate real-world e-commerce behavior. The codebase is organized for readability and maintainability, making it easy to integrate with backend APIs or expand into a full-stack project.
+Ideal for frontend developers looking to showcase responsive design skills and interactive UI development without relying on frameworks.
